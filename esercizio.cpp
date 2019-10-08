@@ -3,7 +3,14 @@
 using namespace std;
 
 int main() {
- int n=10;
- float voti = n;
+ int a=5;
+ int b=3;
+ int s;
+ 
+ s=a+b;
+ 
+ cout<<s<<endl;
+ 
+ 
  
 }
