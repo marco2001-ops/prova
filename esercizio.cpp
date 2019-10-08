@@ -10,6 +10,8 @@ int main() {
  s=a+b;
  
  cout<<s<<endl;
+ cout<<"fine"<<endl;
+ 
  
  
  
